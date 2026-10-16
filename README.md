@@ -1,28 +1,27 @@
 # us-superstore-excel-dashboard
-Interative Microsoft Excel dashboard analyzing US Superstore revenue, profit margins, and shipping logistics metrics across regions and fulfillment modes
-US Superstore Performance & Logistics Dashboard
+## Interative Microsoft Excel dashboard analyzing US Superstore revenue, profit margins, and shipping logistics metrics across regions and fulfillment modes
+## US Superstore Performance & Logistics Dashboard
 A comprehensive data analytics dashboard built to evaluate financial performance, profitability, and shipping logistics for a nationwide US retail enterprise. This interactive dashboard transforms raw retail transaction data into actionable business insights across revenue, regional distribution, and fulfillment efficiency.
-![US Superstore Excel Dashboard Preview](dashboard_preview.jpeg.jpg)
+## ![US Superstore Excel Dashboard Preview](dashboard_preview.jpeg.jpg)
 
-📌 Project Overview
+## 📌 Project Overview
 Understanding the interplay between sales revenue, profit margins, and logistics costs is critical for optimizing operations. This project provides a 360-degree view of business operations by analyzing overall financial health while dissecting cost drivers—specifically shipping expenses—across regions and delivery modes.
 
-🔑 Key Metrics & Dashboard Visualizations
+## 🔑 Key Metrics & Dashboard Visualizations
 The dashboard is structured into three primary operational pillars: Financial Overview, Regional Analytics, and Logistics & Fulfillment Breakdown.
 
-1. High-Level KPIs
-Total Revenue: Summary of overall gross sales generated.
-Total Profit: Net earnings after product costs and overhead.
-Total Shipping Cost: Aggregate freight and delivery expenditures.
-Frequency of Shipment: Overall volume and count of fulfilled orders.
+**1. High-Level KPIs**
+**Total Revenue:** Summary of overall gross sales generated.
+**Total Profit:** Net earnings after product costs and overhead.
+**Total Shipping Cost:** Aggregate freight and delivery expenditures.
+**Frequency of Shipment:** Overall volume and count of fulfilled orders.
 
-3. Regional Analysis
-Revenue by Region: Geographic breakdown of sales performance to identify top-performing markets.
-Profit by Region: Highlighting profitable vs. low-margin/loss-making geographic zones.
-Shipping Cost by Region: Evaluating regional logistical overhead to spot transport inefficiencies.
-Delivery Frequency by Region: Mapping order demand distribution across different geographic territories.
+##3. Regional Analysis##
+**Revenue by Region:** Geographic breakdown of sales performance to identify top-performing markets.
+**Profit by Region:** Highlighting profitable vs. low-margin/loss-making geographic zones.
+**Delivery Frequency by Region:** Mapping order demand distribution across different geographic territories.
 
-4. Logistics & Temporal Trends
+## 4. Logistics & Temporal Trends##
 Shipping Cost by Month: Trend lines tracking seasonality, peak shipping periods, and cost fluctuations over time.
 Shipping Cost by Ship Mode: Cost distribution across fulfillment methods (Standard Class, Second Class, First Class, Same Day) to evaluate shipping mode margins.
 
