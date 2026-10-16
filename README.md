@@ -1,8 +1,8 @@
 # us-superstore-excel-dashboard
-![US Superstore Excel Dashboard Preview](dashboard_preview.jpeg.jpg)
 Interative Microsoft Excel dashboard analyzing US Superstore revenue, profit margins, and shipping logistics metrics across regions and fulfillment modes
 US Superstore Performance & Logistics Dashboard
 A comprehensive data analytics dashboard built to evaluate financial performance, profitability, and shipping logistics for a nationwide US retail enterprise. This interactive dashboard transforms raw retail transaction data into actionable business insights across revenue, regional distribution, and fulfillment efficiency.
+![US Superstore Excel Dashboard Preview](dashboard_preview.jpeg.jpg)
 
 📌 Project Overview
 Understanding the interplay between sales revenue, profit margins, and logistics costs is critical for optimizing operations. This project provides a 360-degree view of business operations by analyzing overall financial health while dissecting cost drivers—specifically shipping expenses—across regions and delivery modes.
