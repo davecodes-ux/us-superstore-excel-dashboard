@@ -24,7 +24,8 @@ Delivery Frequency by Region: Mapping order demand distribution across different
 4. Logistics & Temporal Trends
 Shipping Cost by Month: Trend lines tracking seasonality, peak shipping periods, and cost fluctuations over time.
 Shipping Cost by Ship Mode: Cost distribution across fulfillment methods (Standard Class, Second Class, First Class, Same Day) to evaluate shipping mode margins.
-🛠️ Data Architecture & Workflow
+
+ Data Architecture & Workflow
 [ Raw Superstore Dataset ]
            │
            ▼
