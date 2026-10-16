@@ -10,15 +10,15 @@ Understanding the interplay between sales revenue, profit margins, and logistics
 The dashboard is structured into three primary operational pillars: Financial Overview, Regional Analytics, and Logistics & Fulfillment Breakdown.
 
 **1. High-Level KPIs**
-**Total Revenue:** Summary of overall gross sales generated.
-**Total Profit:** Net earnings after product costs and overhead.
-**Total Shipping Cost:** Aggregate freight and delivery expenditures.
-**Frequency of Shipment:** Overall volume and count of fulfilled orders.
+* Total Revenue: * Summary of overall gross sales generated.
+* Total Profit: * Net earnings after product costs and overhead.
+* Total Shipping Cost: * Aggregate freight and delivery expenditures.
+* Frequency of Shipment: * Overall volume and count of fulfilled orders.
 
 ## 3. Regional Analysis ##
-* Revenue by Region:* Geographic breakdown of sales performance to identify top-performing markets.
-* Profit by Region:* Highlighting profitable vs. low-margin/loss-making geographic zones.
-* Delivery Frequency by Region:* Mapping order demand distribution across different geographic territories.
+* Revenue by Region: * Geographic breakdown of sales performance to identify top-performing markets.
+* Profit by Region: * Highlighting profitable vs. low-margin/loss-making geographic zones.
+* Delivery Frequency by Region: * Mapping order demand distribution across different geographic territories.
 
 ## 4. Logistics & Temporal Trends ##
 Shipping Cost by Month: Trend lines tracking seasonality, peak shipping periods, and cost fluctuations over time.
