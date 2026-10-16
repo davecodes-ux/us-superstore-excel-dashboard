@@ -25,15 +25,15 @@ The dashboard is structured into three primary operational pillars: Financial Ov
 * Shipping Cost by Ship Mode: Cost distribution across fulfillment methods (Standard Class, Second Class, First Class, Same Day) to evaluate shipping mode margins.
 
 ## Data Architecture & Workflow ##
-* [ Raw Superstore Dataset ]
+* [ Raw Superstore Dataset ] *
            │
-          * ▼ *
-* [ Data Cleaning & Transformation ]
+           ▼
+* [ Data Cleaning & Transformation ] *
   • Handled missing values & adjusted data types
   • Created custom calculated measures (Margins, Order Counts)
            │
-          * ▼ *
-* [ Data Modeling & Visualizations ]
+           ▼  
+* [ Data Modeling & Visualizations ] *
   • Built interactive charts & KPI cards
   • Established cross-filtering & slice-and-dice functionality
 
