@@ -51,5 +51,5 @@ Open in Excel 2016 or newer version
 Explore Data: Interactively click through regional and fulfillment slicers to dynamically filter metrics.
 
 ## 📬 Contact & Connect
-Portfolio / GitHub: davecodes-ux
-Email: ugwuchinedu242@gmail.com
+* Portfolio / GitHub: davecodes-ux
+* Email: ugwuchinedu242@gmail.com
