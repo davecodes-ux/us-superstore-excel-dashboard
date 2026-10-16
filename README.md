@@ -16,11 +16,11 @@ The dashboard is structured into three primary operational pillars: Financial Ov
 **Frequency of Shipment:** Overall volume and count of fulfilled orders.
 
 ## 3. Regional Analysis ##
-# Revenue by Region:** Geographic breakdown of sales performance to identify top-performing markets.
-# Profit by Region: Highlighting profitable vs. low-margin/loss-making geographic zones.
- # Delivery Frequency by Region: Mapping order demand distribution across different geographic territories.
+* Revenue by Region:* Geographic breakdown of sales performance to identify top-performing markets.
+* Profit by Region:* Highlighting profitable vs. low-margin/loss-making geographic zones.
+* Delivery Frequency by Region:* Mapping order demand distribution across different geographic territories.
 
-## 4. Logistics & Temporal Trends##
+## 4. Logistics & Temporal Trends ##
 Shipping Cost by Month: Trend lines tracking seasonality, peak shipping periods, and cost fluctuations over time.
 Shipping Cost by Ship Mode: Cost distribution across fulfillment methods (Standard Class, Second Class, First Class, Same Day) to evaluate shipping mode margins.
 
