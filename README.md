@@ -27,12 +27,12 @@ The dashboard is structured into three primary operational pillars: Financial Ov
 ## Data Architecture & Workflow ##
 * [ Raw Superstore Dataset ]
            │
-           ▼
+          * ▼ *
 * [ Data Cleaning & Transformation ]
   • Handled missing values & adjusted data types
   • Created custom calculated measures (Margins, Order Counts)
            │
-           ▼
+          * ▼ *
 * [ Data Modeling & Visualizations ]
   • Built interactive charts & KPI cards
   • Established cross-filtering & slice-and-dice functionality
