@@ -46,9 +46,9 @@ Seasonal Demand Shifts: The Shipping Cost by Month timeline exposes freight expe
 
 🚀 How to View / Replicate
 Clone the Repository:
-git clone https://github.com/your-username/us-superstore-dashboard.git
+git clone https://davecodes-ux.github.io/us-superstore-excel-dashboard/
 Open Project File:
-Open the .pbix (Power BI) or file package in your desktop software.
+Open in Excel 2016 or newer version 
 Explore Data: Interactively click through regional and fulfillment slicers to dynamically filter metrics.
 
 📬 Contact & Connect
