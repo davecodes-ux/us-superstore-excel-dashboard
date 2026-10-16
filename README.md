@@ -21,36 +21,35 @@ The dashboard is structured into three primary operational pillars: Financial Ov
 * Delivery Frequency by Region: Mapping order demand distribution across different geographic territories.
 
 ## 4. Logistics & Temporal Trends ##
-Shipping Cost by Month: Trend lines tracking seasonality, peak shipping periods, and cost fluctuations over time.
-Shipping Cost by Ship Mode: Cost distribution across fulfillment methods (Standard Class, Second Class, First Class, Same Day) to evaluate shipping mode margins.
+* Shipping Cost by Month: Trend lines tracking seasonality, peak shipping periods, and cost fluctuations over time.
+* Shipping Cost by Ship Mode: Cost distribution across fulfillment methods (Standard Class, Second Class, First Class, Same Day) to evaluate shipping mode margins.
 
 ## Data Architecture & Workflow ##
-[ Raw Superstore Dataset ]
+* [ Raw Superstore Dataset ]
            │
            ▼
-[ Data Cleaning & Transformation ]
+* [ Data Cleaning & Transformation ]
   • Handled missing values & adjusted data types
   • Created custom calculated measures (Margins, Order Counts)
            │
            ▼
-[ Data Modeling & Visualizations ]
+* [ Data Modeling & Visualizations ]
   • Built interactive charts & KPI cards
   • Established cross-filtering & slice-and-dice functionality
 
-##💡 Key Business Insights & Takeaways ##
-Logistics Cost Optimization: Analyzing Shipping Cost by Ship Mode against Delivery Frequency highlights whether premium shipping options are disproportionately eroding profit margins.
+## 💡 Key Business Insights & Takeaways ##
+* Logistics Cost Optimization: Analyzing Shipping Cost by Ship Mode against Delivery Frequency highlights whether premium shipping options are disproportionately eroding profit margins.
+* Regional Margin Variance: Comparing Revenue by Region against Profit by Region identifies areas with high sales volume but sub-par profitability due to elevated freight costs or deep discounting.
+* Seasonal Demand Shifts: The Shipping Cost by Month timeline exposes freight expense spikes during high-volume peak quarters, aiding future operational budget planning.
 
-Regional Margin Variance: Comparing Revenue by Region against Profit by Region identifies areas with high sales volume but sub-par profitability due to elevated freight costs or deep discounting.
-Seasonal Demand Shifts: The Shipping Cost by Month timeline exposes freight expense spikes during high-volume peak quarters, aiding future operational budget planning.
-
-🚀 How to View / Replicate
+## 🚀 How to View / Replicate ##
 Clone the Repository:
 git clone https://davecodes-ux.github.io/us-superstore-excel-dashboard/
 
-Open Project File:
+* Open Project File:
 Open in Excel 2016 or newer version 
 Explore Data: Interactively click through regional and fulfillment slicers to dynamically filter metrics.
 
-📬 Contact & Connect
+## 📬 Contact & Connect
 Portfolio / GitHub: davecodes-ux
 Email: ugwuchinedu242@gmail.com
